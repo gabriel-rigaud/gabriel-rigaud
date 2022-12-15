@@ -46,6 +46,9 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="mysql" />
+      <br>Php
     </td>  
  </tr>
 </table>
