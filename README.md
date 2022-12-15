@@ -18,7 +18,7 @@
 
 [![Plesk](https://img.shields.io/badge/plesk-143?style=for-the-badge&logo=plesk&logoColor=black&color=black&labelColor=white)](https://gabriel-rigaud.students-laplateforme.io)
 
-[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Hayk_Gabrielyan&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
+[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Gabriel_Rigaud&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
 
 ### Languages and Tools:
 
