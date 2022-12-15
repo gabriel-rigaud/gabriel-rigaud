@@ -11,7 +11,7 @@
       for the period from March to August 2023 which will help me to continue my studies and to acquire
       professional experience during my training.
 
-## My favorite tools and technologies ⚙️ 
+## Languages and Tools ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -59,16 +59,6 @@
 [![Plesk](https://img.shields.io/badge/plesk-143?style=for-the-badge&logo=plesk&logoColor=black&color=black&labelColor=white)](https://gabriel-rigaud.students-laplateforme.io)
 
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Gabriel_Rigaud&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
-
-### Languages and Tools:
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
 ### Softwares:
