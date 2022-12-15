@@ -43,7 +43,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=hayk.gabrielyan)
+![](https://visitor-badge.glitch.me/badge?page_id=gabriel.rigaud)
 
 [website]: https://github.com/hayk-gabrielyan
 [linkedin]: https://www.linkedin.com/in/hayk-gabrielyan-aa6b71216/
