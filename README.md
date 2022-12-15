@@ -1,6 +1,6 @@
 # Hello, I'm Gabriel <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
 
-<img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right" height="250px" width="500px" />
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 # I'm a Junior Full-Stack Developer <img  alt="Visual Studio Code" width="60px"  src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 ## based in Marseille ! <img  alt="Visual Studio Code" width="80px"  src="https://media.giphy.com/media/X6hiFJjvTDAAw/giphy.gif" />
@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
 ### Softwares:
