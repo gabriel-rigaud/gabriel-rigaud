@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/badge/My%20Website%20--&?style=for-the-badge&logo=google&color=black)](https://hayk-gabrielyan.students-laplateforme.io)
+![Plesk](https://img.shields.io/badge/plesk-143?style=for-the-badge&logo=plesk&logoColor=black&color=black&labelColor=white)](https://gabriel-rigaud.students-laplateforme.io)
 
-[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Hayk_Gabrielyan&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/hayk-gabrielyan-aa6b71216/)
+[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40Hayk_Gabrielyan&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Hayk_Gabrielyan%2F)](https://www.linkedin.com/in/gabriel-rigaud-31128a259/)
 
 ### Languages and Tools:
 
@@ -33,17 +33,12 @@
 
 ### Softwares:
 
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+![Gimp](https://img.shields.io/badge/gimp-143?style=for-the-badge&logo=gimp&logoColor=black&color=black&labelColor=white)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Datagrip](https://img.shields.io/badge/datagrip-143?style=for-the-badge&logo=datagrip&logoColor=black&color=black&labelColor=blue)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 <br />
 
----
-
 ![](https://visitor-badge.glitch.me/badge?page_id=gabriel.rigaud)
-
-[plesk]: https://github.com/hayk-gabrielyan
-[linkedin]: https://www.linkedin.com/in/hayk-gabrielyan-aa6b71216/
